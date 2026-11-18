@@ -1,2 +1,2 @@
 # Atlas
-Design sytme and prototype for Atlas
+Design system and prototype for Atlas
