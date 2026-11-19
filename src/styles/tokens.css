@@ -1,0 +1,90 @@
+:root {
+  /* Colors - Primitives */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-90: #1a1a1a;
+  --color-80: #333333;
+  --color-70: #4d4d4d;
+  --color-60: #666666;
+  --color-50: #808080;
+  --color-40: #999999;
+  --color-30: #b2b2b2;
+  --color-20: #cccccc;
+  --color-10: #e5e5e5;
+  --color-blue: #000bda;
+  --color-blue-hover: #4d54e5;
+  --color-light-blue: #8085ed;
+  --color-pink: #ff27b3;
+  --color-light-pink: #ff93d9;
+  --color-super-light-pink: #ffe7f7;
+  --color-gray-transparent: #4d4d4d0d;
+  --color-gray-transparent-2: #4d4d4d33;
+
+  /* Spacing - Primitives */
+  --space-0: 0px;
+  --space-1: 2px;
+  --space-2: 4px;
+  --space-3: 8px;
+  --space-4: 12px;
+  --space-5: 16px;
+  --space-6: 20px;
+  --space-7: 24px;
+  --space-8: 32px;
+  --space-9: 40px;
+  --space-10: 48px;
+  --space-11: 64px;
+  --space-12: 80px;
+  --space-13: 96px;
+
+  /* Radius - Primitives */
+  --radius-none: 0px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-2xl: 16px;
+  --radius-3xl-2: 24px;
+  --radius-full: 9999px;
+  --radius-full-2: 9999px;
+
+  /* Typography - Scales */
+  --font-family: "Open Sans", sans-serif;
+  --text-display: 60px;
+  --text-display-2: 48px;
+  --text-display-3: 48px;
+  --text-display-4: 36px;
+  --text-h1: 30px;
+  --text-h2: 24px;
+  --text-h3: 20px;
+  --text-h4: 18px;
+  --text-h4-2: 18px;
+  --text-body-lg: 16px;
+  --text-body-lg-2: 16px;
+  --text-body-lg-3: 16px;
+  --text-body: 14px;
+  --text-body-2: 14px;
+  --text-caption: 12px;
+  --text-caption-2: 12px;
+  --text-caption-3: 10px;
+  --text-caption-4: 10px;
+
+  /* Line Heights */
+  --lh-display: 76px;
+  --lh-display-2: 64px;
+  --lh-display-3: 64px;
+  --lh-display-4: 48px;
+  --lh-h1: 40px;
+  --lh-h2: 32px;
+  --lh-h3: 28px;
+  --lh-h4: 24px;
+  --lh-h4-2: 28px;
+  --lh-body-lg: 20px;
+  --lh-body-lg-2: 22px;
+  --lh-body-lg-3: 20px;
+  --lh-body: 20px;
+  --lh-body-2: 18px;
+  --lh-caption: 15px;
+  --lh-caption-2: 16px;
+  --lh-caption-3: 14px;
+  --lh-caption-4: auto;
+}
