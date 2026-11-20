@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@import './styles/typography.css';
+
 body {
   margin: 0;
-  font-family: Inter, system-ui, -apple-system, sans-serif;
+  font-family: var(--font-family);
 }
