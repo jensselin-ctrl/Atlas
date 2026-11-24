@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import './styles/tokens.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import './styles/typography.css';
 
 body {
   margin: 0;

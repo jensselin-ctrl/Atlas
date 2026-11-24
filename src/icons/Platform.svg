@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M52 11H8C5.79086 11 4 12.7909 4 15V44C4 46.2091 5.79086 48 8 48H52C54.2091 48 56 46.2091 56 44V15C56 12.7909 54.2091 11 52 11ZM8 7C3.58172 7 0 10.5817 0 15V44C0 48.4183 3.58172 52 8 52H52C56.4183 52 60 48.4183 60 44V15C60 10.5817 56.4183 7 52 7H8Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<circle cx="11" cy="18" r="3" fill="black"/>
+<circle cx="21" cy="18" r="3" fill="black"/>
+<circle cx="31" cy="18" r="3" fill="black"/>
+</svg>

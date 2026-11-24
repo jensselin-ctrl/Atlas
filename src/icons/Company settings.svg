@@ -1,0 +1,12 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 58C0 56.8954 0.89543 56 2 56H58C59.1046 56 60 56.8954 60 58C60 59.1046 59.1046 60 58 60H2C0.89543 60 0 59.1046 0 58Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M10 45C10 43.8954 10.8954 43 12 43H22C23.1046 43 24 43.8954 24 45C24 46.1046 23.1046 47 22 47H12C10.8954 47 10 46.1046 10 45Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M10 35C10 33.8954 10.8954 33 12 33H22C23.1046 33 24 33.8954 24 35C24 36.1046 23.1046 37 22 37H12C10.8954 37 10 36.1046 10 35Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M10 25C10 23.8954 10.8954 23 12 23L22 23C23.1046 23 24 23.8954 24 25C24 26.1046 23.1046 27 22 27L12 27C10.8954 27 10 26.1046 10 25Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M10 15C10 13.8954 10.8954 13 12 13L22 13C23.1046 13 24 13.8954 24 15C24 16.1046 23.1046 17 22 17L12 17C10.8954 17 10 16.1046 10 15Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M36 49C36 47.8954 36.8954 47 38 47H48C49.1046 47 50 47.8954 50 49C50 50.1046 49.1046 51 48 51H38C36.8954 51 36 50.1046 36 49Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M36 29C36 27.8954 36.8954 27 38 27L48 27C49.1046 27 50 27.8954 50 29C50 30.1046 49.1046 31 48 31L38 31C36.8954 31 36 30.1046 36 29Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M36 39C36 37.8954 36.8954 37 38 37H48C49.1046 37 50 37.8954 50 39C50 40.1046 49.1046 41 48 41H38C36.8954 41 36 40.1046 36 39Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M27 4H7C6.44771 4 6 4.44772 6 5V56H28V5C28 4.44772 27.5523 4 27 4ZM7 0C4.23858 0 2 2.23858 2 5V60H32V5C32 2.23858 29.7614 0 27 0H7Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+<path d="M53 22H33C32.4477 22 32 22.4477 32 23V56H54V23C54 22.4477 53.5523 22 53 22ZM33 18C30.2386 18 28 20.2386 28 23V60H58V23C58 20.2386 55.7614 18 53 18H33Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+</svg>
